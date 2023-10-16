@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "League Spartan";
+}
+
+.card img{
+    mix-blend-mode: multiply;
+}
+
+#logo:hover{
+    color: #FB6B0D !important;
+}
+
+.btn-orange{
+    background-color: #FB6B0D !important;
+    color: black !important;
+    border-radius: 3px;
+}
+
+.btn-orange:hover{
+    background-color: #df5d07 !important;
+}
+
+.btn-outline-orange{
+    background-color: transparent !important;
+    color: black !important;
+    border: 1px solid #FB6B0D !important;
+    border-radius: 3px;
+}
+.btn-outline-orange:hover{
+    background-color: #FB6B0D !important;
+}
+
+.text-orange{
+    color: #FB6B0D !important;
+}
